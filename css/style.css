@@ -430,7 +430,9 @@ img.a{
     padding-left: 170px;
 }
 
-
+.link > a{
+    text-decoration: none;
+}
 
 
 
